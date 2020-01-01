@@ -2,7 +2,7 @@
 """
 Created on Fri May 31 14:56:52 2019 
 
-@author: tanuj
+@author: parth 
 """
 
 import requests  
